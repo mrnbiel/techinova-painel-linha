@@ -1,3 +1,5 @@
+Gabriel Ferreira Moreno - 2°ADS - Turma A
+
 Checklist de Revisão (GitHub e Pull Requests)
 
 Mensagens de Commit: Os commits têm nomes que fazem sentido? (Nada de "atualização", "agora vai", "teste 123"). Dá pra saber o que foi feito só de ler a listinha de commits?
